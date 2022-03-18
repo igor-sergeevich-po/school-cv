@@ -9,7 +9,7 @@
 
 
 ## *about me* :
-rh
+My task is effective training, my goal is to become a professional in the field<br> of interface development.
 
 ## *base skills* :
 - HTML
