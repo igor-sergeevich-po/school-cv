@@ -7,7 +7,6 @@
 * telegram : [elScrooge](https://t.me/elScrooge)<br>
 * gitHub : [igor-sergeevich-po](https://github.com/igor-sergeevich-po)<br>
 
-
 ## *about me* :
 My task is effective training, my goal is to become a professional in the field<br> of interface development.
 
